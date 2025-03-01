@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/3uN-f8v5F9s))
+[(https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/3uN-f8v5F9s))](https://youtu.be/3uN-f8v5F9s)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
