@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/MaiwandR/Web102_Project_1/blob/main/video1698618450.mp4](https://youtu.be/3uN-f8v5F9s)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/3uN-f8v5F9s))
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
